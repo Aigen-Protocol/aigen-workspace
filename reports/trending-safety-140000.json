@@ -1,0 +1,68 @@
+{
+  "title": "Trending Token Safety \u2014 April 5, 2026 14:00 UTC",
+  "tokens": [
+    {
+      "chain": "base",
+      "symbol": "USDC",
+      "score": 100,
+      "verdict": "SYSTEM TOKEN"
+    },
+    {
+      "chain": "base",
+      "symbol": "DEGEN",
+      "score": 100,
+      "verdict": "LIKELY SAFE"
+    },
+    {
+      "chain": "base",
+      "symbol": "AERO",
+      "score": 100,
+      "verdict": "LIKELY SAFE"
+    },
+    {
+      "chain": "base",
+      "symbol": "BRETT",
+      "score": 100,
+      "verdict": "LIKELY SAFE"
+    },
+    {
+      "chain": "base",
+      "symbol": "WELL",
+      "score": 100,
+      "verdict": "LIKELY SAFE"
+    },
+    {
+      "chain": "ethereum",
+      "symbol": "LINK",
+      "score": 100,
+      "verdict": "SYSTEM TOKEN"
+    },
+    {
+      "chain": "ethereum",
+      "symbol": "AAVE",
+      "score": 100,
+      "verdict": "SYSTEM TOKEN"
+    },
+    {
+      "chain": "ethereum",
+      "symbol": "UNI",
+      "score": 100,
+      "verdict": "SYSTEM TOKEN"
+    },
+    {
+      "chain": "arbitrum",
+      "symbol": "GMX",
+      "score": 100,
+      "verdict": "LIKELY SAFE"
+    },
+    {
+      "chain": "arbitrum",
+      "symbol": "ARB",
+      "score": 100,
+      "verdict": "SYSTEM TOKEN"
+    }
+  ],
+  "safe": 10,
+  "risky": 0,
+  "generated": "2026-04-05 14:37 UTC"
+}
