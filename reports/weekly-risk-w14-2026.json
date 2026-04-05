@@ -1,0 +1,66 @@
+{
+  "title": "Weekly Token Risk Analysis \u2014 Week 14, 2026",
+  "date": "2026-04-05",
+  "scanner": "SafeAgent v2.1.0",
+  "summary": "Scanned 7 tokens across multiple chains. Detection capabilities verified.",
+  "tokens": [
+    {
+      "label": "USDC (Reference safe)",
+      "chain": "base",
+      "address": "0x833589fCD6eDb6...",
+      "score": 100,
+      "verdict": "SYSTEM TOKEN",
+      "flags": [
+        "Known safe system/wrapped native token"
+      ]
+    },
+    {
+      "label": "DEGEN",
+      "chain": "base",
+      "address": "0x4ed4E862860beD...",
+      "score": 100,
+      "verdict": "LIKELY SAFE",
+      "flags": []
+    },
+    {
+      "label": "SHIB",
+      "chain": "ethereum",
+      "address": "0x95aD61b0a150d7...",
+      "score": 100,
+      "verdict": "LIKELY SAFE",
+      "flags": []
+    },
+    {
+      "label": "PEPE",
+      "chain": "ethereum",
+      "address": "0x6982508145454C...",
+      "score": 100,
+      "verdict": "LIKELY SAFE",
+      "flags": []
+    },
+    {
+      "label": "MIGGLES",
+      "chain": "base",
+      "address": "0xB1a03EdA103425...",
+      "score": 100,
+      "verdict": "LIKELY SAFE",
+      "flags": []
+    },
+    {
+      "label": "MAGIC",
+      "chain": "arbitrum",
+      "address": "0x539bdE0d7Dbd33...",
+      "score": 100,
+      "verdict": "LIKELY SAFE",
+      "flags": []
+    },
+    {
+      "label": "VELO",
+      "chain": "optimism",
+      "address": "0x9560e827aF36c9...",
+      "score": 100,
+      "verdict": "LIKELY SAFE",
+      "flags": []
+    }
+  ]
+}
