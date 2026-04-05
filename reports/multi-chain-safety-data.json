@@ -1,0 +1,169 @@
+{
+  "generated": "2026-04-05",
+  "scanner_version": "2.1.0",
+  "total_scanned": 20,
+  "safe": 20,
+  "risky": 0,
+  "tokens": [
+    {
+      "chain": "base",
+      "name": "USDC",
+      "address": "0x833589fCD6...",
+      "score": 100,
+      "verdict": "SYSTEM TOKEN",
+      "flags": 1
+    },
+    {
+      "chain": "base",
+      "name": "WETH",
+      "address": "0x4200000000...",
+      "score": 100,
+      "verdict": "SYSTEM TOKEN",
+      "flags": 1
+    },
+    {
+      "chain": "base",
+      "name": "DEGEN",
+      "address": "0x4ed4E86286...",
+      "score": 90,
+      "verdict": "LIKELY SAFE",
+      "flags": 1
+    },
+    {
+      "chain": "base",
+      "name": "cbBTC",
+      "address": "0x0b3e328455...",
+      "score": 100,
+      "verdict": "LIKELY SAFE",
+      "flags": 1
+    },
+    {
+      "chain": "base",
+      "name": "AERO",
+      "address": "0x940181a94A...",
+      "score": 100,
+      "verdict": "LIKELY SAFE",
+      "flags": 0
+    },
+    {
+      "chain": "base",
+      "name": "BRETT",
+      "address": "0x532f271019...",
+      "score": 100,
+      "verdict": "LIKELY SAFE",
+      "flags": 0
+    },
+    {
+      "chain": "base",
+      "name": "cbETH",
+      "address": "0x2Ae3F1Ec7F...",
+      "score": 100,
+      "verdict": "LIKELY SAFE",
+      "flags": 0
+    },
+    {
+      "chain": "base",
+      "name": "HIGHER",
+      "address": "0x0578d8A44d...",
+      "score": 100,
+      "verdict": "LIKELY SAFE",
+      "flags": 0
+    },
+    {
+      "chain": "base",
+      "name": "TOSHI",
+      "address": "0x3992B27dA2...",
+      "score": 100,
+      "verdict": "LIKELY SAFE",
+      "flags": 0
+    },
+    {
+      "chain": "base",
+      "name": "SUSHI",
+      "address": "0x1C7a460413...",
+      "score": 100,
+      "verdict": "LIKELY SAFE",
+      "flags": 0
+    },
+    {
+      "chain": "ethereum",
+      "name": "USDT",
+      "address": "0xdAC17F958D...",
+      "score": 100,
+      "verdict": "SYSTEM TOKEN",
+      "flags": 1
+    },
+    {
+      "chain": "ethereum",
+      "name": "USDC",
+      "address": "0xA0b86991c6...",
+      "score": 100,
+      "verdict": "SYSTEM TOKEN",
+      "flags": 1
+    },
+    {
+      "chain": "ethereum",
+      "name": "WBTC",
+      "address": "0x2260FAC5E5...",
+      "score": 100,
+      "verdict": "LIKELY SAFE",
+      "flags": 0
+    },
+    {
+      "chain": "ethereum",
+      "name": "DAI",
+      "address": "0x6B175474E8...",
+      "score": 100,
+      "verdict": "SYSTEM TOKEN",
+      "flags": 1
+    },
+    {
+      "chain": "ethereum",
+      "name": "LINK",
+      "address": "0x514910771A...",
+      "score": 100,
+      "verdict": "LIKELY SAFE",
+      "flags": 0
+    },
+    {
+      "chain": "arbitrum",
+      "name": "USDC",
+      "address": "0xaf88d065e7...",
+      "score": 100,
+      "verdict": "SYSTEM TOKEN",
+      "flags": 1
+    },
+    {
+      "chain": "arbitrum",
+      "name": "ARB",
+      "address": "0x912CE59144...",
+      "score": 90,
+      "verdict": "LIKELY SAFE",
+      "flags": 1
+    },
+    {
+      "chain": "arbitrum",
+      "name": "USDT",
+      "address": "0xFd086bC7CD...",
+      "score": 100,
+      "verdict": "SYSTEM TOKEN",
+      "flags": 1
+    },
+    {
+      "chain": "optimism",
+      "name": "OP",
+      "address": "0x4200000000...",
+      "score": 100,
+      "verdict": "SYSTEM TOKEN",
+      "flags": 1
+    },
+    {
+      "chain": "optimism",
+      "name": "USDC",
+      "address": "0x0b2C639c53...",
+      "score": 100,
+      "verdict": "SYSTEM TOKEN",
+      "flags": 1
+    }
+  ]
+}
