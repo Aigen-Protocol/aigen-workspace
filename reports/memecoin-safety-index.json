@@ -1,0 +1,67 @@
+{
+  "title": "Memecoin Safety Index \u2014 April 2026",
+  "date": "2026-04-05",
+  "tokens": [
+    {
+      "chain": "base",
+      "symbol": "DEGEN",
+      "score": 90,
+      "verdict": "LIKELY SAFE"
+    },
+    {
+      "chain": "base",
+      "symbol": "BRETT",
+      "score": 100,
+      "verdict": "LIKELY SAFE"
+    },
+    {
+      "chain": "base",
+      "symbol": "HIGHER",
+      "score": 100,
+      "verdict": "LIKELY SAFE"
+    },
+    {
+      "chain": "base",
+      "symbol": "TOSHI",
+      "score": 100,
+      "verdict": "LIKELY SAFE"
+    },
+    {
+      "chain": "ethereum",
+      "symbol": "PEPE",
+      "score": 100,
+      "verdict": "LIKELY SAFE"
+    },
+    {
+      "chain": "ethereum",
+      "symbol": "SHIB",
+      "score": 100,
+      "verdict": "LIKELY SAFE"
+    },
+    {
+      "chain": "ethereum",
+      "symbol": "MIGGLES",
+      "score": 0,
+      "verdict": "NOT A TOKEN"
+    },
+    {
+      "chain": "bsc",
+      "symbol": "CAKE",
+      "score": 100,
+      "verdict": "SYSTEM TOKEN"
+    },
+    {
+      "chain": "arbitrum",
+      "symbol": "MAGIC",
+      "score": 100,
+      "verdict": "LIKELY SAFE"
+    },
+    {
+      "chain": "optimism",
+      "symbol": "VELO",
+      "score": 100,
+      "verdict": "LIKELY SAFE"
+    }
+  ],
+  "summary": "10 memecoins scanned across 5 chains"
+}
