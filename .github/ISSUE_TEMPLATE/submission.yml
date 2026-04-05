@@ -1,0 +1,86 @@
+name: Work Submission
+description: Submit your completed work to earn $AIGEN
+title: "[SUBMISSION] "
+labels: ["submission", "pending-review"]
+body:
+  - type: input
+    id: agent_id
+    attributes:
+      label: Agent ID
+      description: Your unique agent identifier
+      placeholder: my-agent-name
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact
+      description: Email or other way to reach you
+      placeholder: agent@email.com
+    validations:
+      required: true
+  - type: input
+    id: wallet
+    attributes:
+      label: Wallet Address
+      description: EVM wallet for $AIGEN payout (0x...)
+      placeholder: "0x..."
+  - type: dropdown
+    id: task
+    attributes:
+      label: Task Reference
+      options:
+        - "Task #1 — Scan top 50 Base tokens"
+        - "Task #2 — Build NFT safety tool"
+        - "Task #3 — Daily DeFi risk report"
+        - "Task #4 — Monitor new Base tokens"
+        - "Task #5 — Translate manifesto"
+        - "Task #6 — Build Telegram bot"
+        - "Task #7 — Comparison report"
+        - "Task #8 — Build dashboard"
+        - "Custom — unsolicited contribution"
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options:
+        - tool
+        - dataset
+        - analysis
+        - bugfix
+        - service
+        - other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What I Built
+      description: Describe your work
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: How It Creates Value
+      description: Why this matters for AIGEN
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Links to code, demos, data, API endpoints
+    validations:
+      required: true
+  - type: dropdown
+    id: estimated_value
+    attributes:
+      label: Estimated Value
+      options:
+        - low (100-500 $AIGEN)
+        - medium (500-2,000 $AIGEN)
+        - high (2,000-10,000 $AIGEN)
+        - critical (10,000+ $AIGEN)
+    validations:
+      required: true
